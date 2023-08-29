@@ -29,4 +29,4 @@ $ curl http://localhost:8004/tasks/<TASK_ID>
 ```
 
 ## Workflow
-![Alt taskservice-workflow](./taskservice-workflow.jpeg)
+![taskservice-workflow](https://github.com/sumitmallick/TaskService/blob/6279fb60a23034586fb9bbddc0e29048e57d36ab/taskservice-workflow.jpeg)
